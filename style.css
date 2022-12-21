@@ -4,6 +4,10 @@
     box-sizing: initial;
 }
 
+body {
+    background-color: black;
+}
+
 main {
     width: 40rem;
     display: flex;
@@ -22,4 +26,5 @@ section {
     flex-wrap: wrap;
     gap: 1.5rem;
     margin-top: 4rem;
+    padding: 1.5rem;
 }
