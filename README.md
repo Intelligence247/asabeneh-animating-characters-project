@@ -9,7 +9,7 @@
 - Css
 - JavaScript
 ## Preview here
-[Go Live]()
+[Go Live](https://shiny-medovik-eced83.netlify.app)
 
 ![screenshot](./media/sketch.png)
 ## Contact

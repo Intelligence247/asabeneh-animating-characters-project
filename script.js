@@ -130,7 +130,7 @@ for (const c of arr[7]) {
     }
     setInterval(color, 1000)
 }
-let aee = ['-apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji"', 'Times New Roman', 'Rubik Gemstones rev=1', 'Roboto Condensed rev=1', 'Rubik 80s Fade rev=1', "Google Sans Text\", Arial, Helvetica, sans-serif"]
+let aee = ['-apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji"', 'Times New Roman', 'Rubik Gemstones rev=1', 'Roboto Condensed rev=1', 'Rubik 80s Fade rev=1']
 const functSect = () => {
     let color = '#' + Math.random().toString(16).substr(2, 6)
     section.style.backgroundColor = color
