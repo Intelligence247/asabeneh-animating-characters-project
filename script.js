@@ -23,7 +23,7 @@ for (const c of arr[0]) {
         p.style.transition = 'all 1s linear'
         p.style.color = color
     }
-    setInterval(color, 1000)
+    setInterval(color, 100)
 }
 
 for (const c of arr[1]) {
@@ -37,7 +37,7 @@ for (const c of arr[1]) {
         p.style.transition = 'all 1s linear'
         p.style.color = color
     }
-    setInterval(color, 1000)
+    setInterval(color, 100)
 }
 
 
@@ -52,7 +52,7 @@ for (const c of arr[2]) {
         p.style.transition = 'all 1s linear'
         p.style.color = color
     }
-    setInterval(color, 1000)
+    setInterval(color, 100)
 }
 
 
@@ -67,7 +67,7 @@ for (const c of arr[3]) {
         p.style.transition = 'all 1s linear'
         p.style.color = color
     }
-    setInterval(color, 1000)
+    setInterval(color, 100)
 }
 
 
@@ -83,7 +83,7 @@ for (const c of arr[4]) {
         p.style.transition = 'all 1s linear'
         p.style.color = color
     }
-    setInterval(color, 1000)
+    setInterval(color, 100)
 }
 
 
@@ -98,7 +98,7 @@ for (const c of arr[5]) {
         p.style.transition = 'all 1s linear'
         p.style.color = color
     }
-    setInterval(color, 1000)
+    setInterval(color, 100)
 }
 
 
@@ -140,7 +140,7 @@ setInterval(functSect, 1000)
 
 
 
-
+let aee = ['-apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji"', 'Times New Roman']
 
 
 
@@ -193,7 +193,7 @@ for (let i = 0; i < xx.length; i++) {
         container.style.transition = 'all 1s linear'
 
     }
-    setInterval(func, 1000)
+    setInterval(func, 100)
 }
 
 
@@ -203,4 +203,4 @@ const func = () => {
     main.style.backgroundColor = color
     main.style.transition = 'all 1s linear'
 }
-setInterval(func, 1000)*/
+setInterval(func, 100)*/
